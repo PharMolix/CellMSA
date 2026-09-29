@@ -1,0 +1,1 @@
+"""CellMSA model components."""
